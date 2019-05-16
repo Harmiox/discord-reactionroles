@@ -1,0 +1,22 @@
+{
+  "name": "discord-reactionroles",
+  "version": "1.0.0",
+  "description": "Public code for reaction roles in a discord server.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harmiox/discord-reactionroles.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Juan Quenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harmiox/discord-reactionroles/issues"
+  },
+  "homepage": "https://github.com/Harmiox/discord-reactionroles#readme"
+}
